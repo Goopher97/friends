@@ -14,6 +14,6 @@ assignees: ''
     "screenshot": "",
     "url": "",
     "avatar": "",
-    "group": "GitHub"
+    "version": "GitHub"
 }
 ```

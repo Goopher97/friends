@@ -1,5 +1,5 @@
 ---
-name: GitHub
+name: 来自GitHub的朋友
 about: GOOPHER
 title: https://
 labels: ''
@@ -14,6 +14,6 @@ assignees: ''
     "screenshot": "",
     "url": "",
     "avatar": "",
-    "version": "GitHub"
+    "group": "来自GitHub的朋友"
 }
 ```

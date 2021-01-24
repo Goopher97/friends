@@ -1,6 +1,6 @@
 ---
-name: 正式版本 v4
-about: 自助添加示例博客
+name: 来自GitHub的朋友
+about: GOOPHER
 title: https://
 labels: ''
 assignees: ''
@@ -14,6 +14,6 @@ assignees: ''
     "screenshot": "",
     "url": "",
     "avatar": "",
-    "version": "版本：^4.0"
+    "group": "来自GitHub的朋友"
 }
 ```
